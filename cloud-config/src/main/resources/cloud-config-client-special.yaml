@@ -1,7 +1,0 @@
-# Special port of a special profile
-server:
-  port: 8004
-
-app:
-  service:
-    name: Spring Cloud Client Example With a Special Profile
